@@ -1,0 +1,15 @@
+{
+  "name": "apidiverge",
+  "version": "1.0.0",
+  "description": "Diverge API hosted on Vercel",
+  "main": "api/diverge.js",
+  "scripts": {
+    "start": "node api/diverge.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
